@@ -1,0 +1,605 @@
+2025-10-31T21:18:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c6a45b310eefcc70741ccc2a163699af
+            [Date] => 31 Oct, 2025 @ 21:18
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.29252
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => WFhg3s6u+WSjEwMg2qZx8KoWU6YDaIm8N08uRdqqRn0=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => c6a45b310eefcc70741ccc2a163699af
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:18:17 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 152
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:21:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ab10f152c5e28bc742eea9b0acff5099
+            [Date] => 31 Oct, 2025 @ 21:21
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 1.26663
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => h7nyccQ2l2uYG3uLi7PzP8ipL6ERNqH9w3Ycl3TxDio=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => ab10f152c5e28bc742eea9b0acff5099
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:21:20 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 152
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:30:38+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c0e97e5e525e94125cf99df35f3e1176
+            [Date] => 31 Oct, 2025 @ 21:30
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.24578
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => LCoycQH1b5kyyi8IRCQXYMrHnyQrvMFNgwbLzxJoQeA=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => c0e97e5e525e94125cf99df35f3e1176
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:30:38 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:31:52+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a7128198c8c3382ea7e441ab5008f3cb
+            [Date] => 31 Oct, 2025 @ 21:31
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.26821
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => Cw5WIQG5Kz7rKn5quhjUqovVV+NroD5hVR/26gJheJc=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => a7128198c8c3382ea7e441ab5008f3cb
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:31:52 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:42:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b2a4683296720bd9f3fe431f908877fb
+            [Date] => 31 Oct, 2025 @ 21:42
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.25306
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => iQXHyuLKS8J1Ji7bhJ6Tzfq5NFXPBfabAj6fMYuTxwE=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => b2a4683296720bd9f3fe431f908877fb
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:42:47 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 181
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:51:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d2b10e658f9c196605a9f5e19adcebf5
+            [Date] => 31 Oct, 2025 @ 21:51
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.26646
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ti7dOtOLJWeRVgxxZW7Y2ZXv7AmC4wqWJG5s24aa+L4=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => d2b10e658f9c196605a9f5e19adcebf5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:51:16 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 152
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:54:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => bbd8ae8f091cadc4ed0787b3842b89ff
+            [Date] => 31 Oct, 2025 @ 21:54
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.23821
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => WM2UM+aE+0kS2bmJA/j6kmo2nk2vUcmLLr6ZbHTcRM4=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => bbd8ae8f091cadc4ed0787b3842b89ff
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:54:17 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:58:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 311864696acb523cbb0e724c2819fc02
+            [Date] => 31 Oct, 2025 @ 21:58
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.27499
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => taqZrLVyydi8QJrJwh1U1yHRvdkcJvjaiM9qb7efboQ=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 311864696acb523cbb0e724c2819fc02
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:58:12 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T21:58:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f68ff3828492391d5614475eaafc8e83
+            [Date] => 31 Oct, 2025 @ 21:58
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.27556
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 9PFiLNwlg1U235DjHDdsf2CbCVLdPZwEj9pxaXTPSbY=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => f68ff3828492391d5614475eaafc8e83
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 21:58:24 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T23:12:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 73e78b2ec77174a6d011717ab2a36a4c
+            [Date] => 31 Oct, 2025 @ 23:12
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.31748
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => +bkKMtbh+lxKork1zqKzvN4ZS+bkZLNem39GxrEEhM8=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 73e78b2ec77174a6d011717ab2a36a4c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 23:12:57 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2025-10-31T23:18:10+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ae67042bc757817704be7ae1ce6977ab
+            [Date] => 31 Oct, 2025 @ 23:18
+            [URL] => http://localhost/prueba_tecnica/moodle/webservice/rest/server.php?wstoken=33aaa2ea26eefce99b2e2d29cb82ac12&wsfunction=tool_course_subscribe_subscribe&moodlewsrestformat=json
+            [Duration] => 0.36434
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.3.3 Hookshot (WordPress/6.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => UbggpepZeZjpsqcTYBt9DanaVAA5t4zirIbI/ouU9zM=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => ae67042bc757817704be7ae1ce6977ab
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 31 Oct 2025 23:18:10 GMT
+                                    [server] => Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.12 mod_perl/2.0.12 Perl/v5.34.1
+                                    [x-powered-by] => PHP/8.2.12
+                                    [cache-control] => private, must-revalidate, pre-check=0, post-check=0, max-age=0
+                                    [expires] => Thu, 01 Jan 1970 00:00:00 GMT
+                                    [pragma] => no-cache
+                                    [accept-ranges] => none
+                                    [access-control-allow-origin] => *
+                                    [content-length] => 15
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

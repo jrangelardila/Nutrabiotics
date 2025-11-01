@@ -1,0 +1,49 @@
+services:
+  # MariaDB de DB
+  mariadb:
+    image: mariadb:10.6
+    container_name: mariadb
+    restart: always
+    networks:
+      - web
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: moodle_nutribiotics
+      MYSQL_USER: jrangelardila
+      MYSQL_PASSWORD: prueba.tecnica
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./moodle_nutribiotics.sql:/docker-entrypoint-initdb.d/moodle_nutribiotics.sql
+      - ./config_wordpress.sql:/docker-entrypoint-initdb.d/config_wordpress.sql
+      - ./wordpress.sql:/docker-entrypoint-initdb.d/wordpress.sql
+
+  # Apache con PHP
+  apache:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: apache
+    restart: always
+    depends_on:
+      - mariadb
+    ports:
+      - "80:80"
+    volumes:
+      - ./moodle:/var/www/html/moodle
+      - ./moodledata:/var/www/moodledata
+      - ./wordpress:/var/www/html/wordpress
+      - ./moodle.conf:/etc/apache2/sites-available/moodle.conf
+    environment:
+      MOODLE_DB_HOST: mariadb
+      MOODLE_DB_USER: jrangelardila
+      MOODLE_DB_PASSWORD: prueba.tecnica
+      MOODLE_DB_NAME: moodle_nutribiotics
+      MOODLE_MOODLEDATA: /var/www/moodledata
+      WORDPRESS_USER: wp_user
+    networks:
+      - web
+volumes:
+  db_data:
+networks:
+  web:
+    driver: bridge
